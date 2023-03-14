@@ -1,12 +1,10 @@
-# project3
-project 3 
- Project 3 - *Name of App Here*
 
-Submitted by: **Your Name Here**
 
-**Name of your app** is an app that introduces networking ... [TODO] 
+ Project 3 - *Flixster App with API*
 
-Time spent: **X** hours spent in total
+Submitted by: **Marlvin Goremusand**
+
+Time spent: **22** hours spent in total
 
 ## Required Features
 
