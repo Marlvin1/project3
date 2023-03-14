@@ -2,7 +2,7 @@
 
  Project 3 - *Flixster App with API*
 
-Submitted by: **Marlvin Goremusand**
+Submitted by: **Marlvin Goremusandu**
 
 Time spent: **22** hours spent in total
 
